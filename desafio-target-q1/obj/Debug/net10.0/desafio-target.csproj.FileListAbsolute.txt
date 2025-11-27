@@ -1,0 +1,15 @@
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\desafio-target.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\desafio-target.AssemblyInfoInputs.cache
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\desafio-target.AssemblyInfo.cs
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\desafio-target.csproj.CoreCompileInputs.cache
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\bin\Debug\net10.0\desafio-target.exe
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\bin\Debug\net10.0\desafio-target.deps.json
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\bin\Debug\net10.0\desafio-target.runtimeconfig.json
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\bin\Debug\net10.0\desafio-target.dll
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\bin\Debug\net10.0\desafio-target.pdb
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\desafio-target.dll
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\refint\desafio-target.dll
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\desafio-target.pdb
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\desafio-target.genruntimeconfig.cache
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\obj\Debug\net10.0\ref\desafio-target.dll
+D:\Andre\Projetos\Desafio Técnico\desafio-tecnico-target\desafio-target\bin\Debug\net10.0\vendas.json
